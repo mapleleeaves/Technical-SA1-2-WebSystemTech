@@ -1,22 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>About - POS System</title>
+    <meta charset="UTF-8">
+    <title>About</title>
 </head>
 <body>
-
-    <h1>About</h1>
-
-    <p>
-        It's a POS System
-    </p>
-
-    <nav>
-        <a href="<?= base_url('/') ?>">Home</a> 
-        <a href="<?= base_url('/about') ?>">About</a> 
-        <a href="<?= base_url('/customers') ?>">Customers</a> 
-        <a href="<?= base_url('/users') ?>">Users</a>
-    </nav>
-
+    <h1>About This System</h1>
+    <p>Tasks for Today Management System</p>
+    <p>Developed by: Patrick Calabia</p>
 </body>
 </html>
